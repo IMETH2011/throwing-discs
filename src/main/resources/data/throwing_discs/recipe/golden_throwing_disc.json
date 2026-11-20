@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    " I ",
+    "I I",
+    " I "
+  ],
+  "result": {
+    "id": "throwing_discs:golden_throwing_disc",
+    "count": 1
+  }
+}
